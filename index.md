@@ -1,7 +1,8 @@
 ## Money made simple
 
-Deposit, withdraw, and transfer money at the speed of lightning, directly from your smartphone!
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Experience next-generation banking: Deposit, withdraw, and transfer money at the speed of lightning, directly from your smartphone!
+
+![Banking](https://s.wsj.net/public/resources/images/MI-BU078_MOBILE_P_20130211215613.jpg)
 
 ### Markdown
 
