@@ -1,7 +1,6 @@
 ## Money made simple
 
-You can use the [editor on GitHub](https://github.com/sealedsafe/sealedsafe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
+Deposit, withdraw, and transfer money at the speed of lightning, directly from your smartphone!
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
